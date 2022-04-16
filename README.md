@@ -1,7 +1,7 @@
 ### Hi, I am Moon 👋
 
 
-- 🏫 I’m a graduate student.
+- 🏫 I’m a software engineering apprentice pursuing master's program in computer science at Johns Hopkins University
 - 📫 Reach me by email: [moonye1006@gmail.com](mailto:moonye1006@gmail.com)
 <!-- - ⚡ Fun fact: ... -->
 
