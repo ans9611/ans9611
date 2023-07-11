@@ -1,9 +1,9 @@
 ### Hi, I am Moon 👋
 
 
-- 🏫 I’m a software engineering apprentice a pursuing master's program in computer science at Johns Hopkins University
-- 🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Sustainable Software Development``` • ```Systems Design```.
-- 💡 &nbsp;technologies I enjoy working with include ```Python3``` • ```JavaScript``` • ```Git``` • ```HTML5/CSS``` • ```React.js``` • ```Node.js``` • ```Django```
+- 🏫 I’m a software engineering apprentice pursuing a master's program in computer science at Johns Hopkins University
+- 🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Sustainable Software Development``` • ```Systems Design```.```Assembly Language``` •
+- 💡 &nbsp;technologies I enjoy working with include ```Python3``` • ```Java```• ```ARM Assembly``` • ```JavaScript``` • ```Git``` • ```HTML5/CSS``` • ```React.js``` • ```Node.js``` • ```Django```
 - • ```Three.js```
 - 📫 Reach me by email: [moonye1006@gmail.com](mailto:moonye1006@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/moon-yechan). 
 <!-- - ⚡ Fun fact: ... -->
