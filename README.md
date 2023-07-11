@@ -5,7 +5,7 @@
 - 🌱 &nbsp;I'm on track for learning more about ```Data Structures and Algorithm``` • ```Sustainable Software Development``` • ```Systems Design```.```Assembly Language``` •
 - 💡 &nbsp;technologies I enjoy working with include ```Python3``` • ```Java```• ```ARM Assembly``` • ```JavaScript``` • ```Git``` • ```HTML5/CSS``` • ```React.js``` • ```Node.js``` • ```Django```
 - • ```Three.js```
-- 📫 Reach me by email: [moonye1006@gmail.com](mailto:moonye1006@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/moon-yechan). 
+- 📫 Reach me by email: [ymoon3@jh.edu](mailto:ymoon3@jh.edu) or connect on [LinkedIn](https://www.linkedin.com/in/moon-yechan). 
 <!-- - ⚡ Fun fact: ... -->
 
 <!-- Following is my github stats
